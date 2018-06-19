@@ -37,7 +37,7 @@ def parse_requirements(filename):
 if __name__ == '__main__':
     setup(
         name='Linqp',
-        version='1.0.0',
+        version='1.0.1',
         description='Simple LINQ implementation for python.',
         long_description=package_env('README.rst'),
         author='Max Biloborodko',
