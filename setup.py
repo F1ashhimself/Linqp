@@ -39,7 +39,7 @@ if __name__ == '__main__':
         name='Linqp',
         version='1.0.0',
         description='Simple LINQ implementation for python.',
-        long_description=package_env('README.md'),
+        long_description=package_env('README.rst'),
         author='Max Biloborodko',
         author_email='f1ashhimself@gmail.net',
         packages=['linqp'],
